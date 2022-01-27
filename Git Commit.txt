@@ -1,0 +1,16 @@
+create a new repository on the command line
+git init
+git add <files>
+git commit -m "comments"
+git branch -M main(branch)
+git remote add origin "site location with inverted quotes"
+git push -u origin master
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/rishav4u7/Dummy.git
+git branch -M main
+git push -u origin main
+
+
+git pull-> combination of git fetch and git merge will change orginal working folder on your system
+git fetch-> Will change the local git repository on your local system

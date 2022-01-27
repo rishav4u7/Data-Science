@@ -1,0 +1,3 @@
+https://github.com/sakusuma/HousePricePrediction/blob/main/RealEstateAssignment.ipynb
+https://github.com/drajesh-tech/Ridge-Lasso-House-Price-Prediction/blob/master/House-Price-Prediction-Ridge-Lasso.ipynb
+https://github.com/ssarkar445/Advanced-Regression-using-Lasso-and-Ridge/blob/master/Assignment%20-%20Advanced%20Regression.ipynb
