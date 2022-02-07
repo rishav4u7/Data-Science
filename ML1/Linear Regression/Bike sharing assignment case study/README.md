@@ -32,7 +32,7 @@ The dataset contains 730 rows and 16 columns.
 #### Test Data Set
 - R-squared:                       0.8093
 - Adj. R-squared:                  0.8001
-## It can be observed that demand for bikes depends mainly on below variables:
+#### It can be observed that demand for bikes depends mainly on below variables:
 #### yr, holiday, temp, Winter, spring, summer, Light_snow_rain, Mist_cloudy, July, Sept
 - Demand increases with the year, temp
 - Demand increases in winter,summer and in the month of Sept
