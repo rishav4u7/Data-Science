@@ -21,7 +21,7 @@ Please use the below link for downloading the dataset:
 
 [Loan application dataset](https://drive.google.com/drive/folders/16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB)
 
-## Result
+## Observations
 1.	Females are more likely to repay loan inspite of failing to repay on time. Bank can target more to female for profit.
 2.	Though married people used to take loan more but they are also first in defaulter list, so bank should give loan to them with caution to avoid loss.
 3.	Bank can target people whose purpose of loan is education as they are less likely to reject it also they are less likely to comes under default category.
