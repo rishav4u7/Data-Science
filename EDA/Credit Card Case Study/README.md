@@ -29,8 +29,11 @@ Please use the below link for downloading the dataset:
 5.	Bank can focus on these purposes for which the client is having for minimal payment difficulties.
 
     a.	'Building a house’, ‘Everyday expense','Medicine','Payment on the loans' are some purpose in which payment of difficulties is almost same.
-    
     b.	On housing type ‘with parents’, ‘House\apartment’ and ‘municipal apartment’ for successful payments.
+    
+    ![download](https://user-images.githubusercontent.com/34181629/152725434-ee7686c1-bb2c-4014-8051-0840adf473f3.png)![download](https://user-images.githubusercontent.com/34181629/152725494-4df36b5e-0836-48fe-82e9-b909ae8cb287.png)
+
+
 
 
 
