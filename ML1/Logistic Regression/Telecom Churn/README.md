@@ -32,7 +32,13 @@ As the dataset have 27% churn rate and seems to be imbalanced. Hence, the ROC cu
 
 In train dataset, the best possible AUC is 0.85 achieved at cutoff of 0.3.
 
+![download](https://user-images.githubusercontent.com/34181629/152781856-c8578f3a-5b6e-4ecb-8794-9ab9107e6cec.png)![download](https://user-images.githubusercontent.com/34181629/152781890-893bed10-b8c8-4f35-9619-6c25a69e24a4.png)
+
+
 In test dataset, the best possible AUC is 0.83 achieved at cutoff of 0.42.
+
+
+![download](https://user-images.githubusercontent.com/34181629/152781910-fa08f0c3-a957-4c60-a5ba-050f1bd37db7.png)![download](https://user-images.githubusercontent.com/34181629/152781925-423ad102-c46d-4298-957c-f4baad4520e5.png)
 
 
 
