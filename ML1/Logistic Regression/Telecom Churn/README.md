@@ -18,6 +18,7 @@ Based on all this past information, a model has to be build which will predict w
 Link : [Dataset]( https://drive.google.com/drive/folders/1ri_rd9229ligu27r7Wh9zP5mdOGjtiUH?usp=sharing)
 
 The above link contains three dataset which will be merged and be used for building a model using Logistic Regression.
+
 Steps:
     
     1. Data cleaning and preparation
