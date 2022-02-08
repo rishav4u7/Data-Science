@@ -5,7 +5,8 @@
 - The company requires us to build a model wherein lead score need to be assigned to each of the leads such that the customers with higher lead score have a higher conversion chance and the customers with lower lead score have a lower conversion chance.
 - Build a logistic regression model to assign a lead score between 0 and 100 to each of the leads which can be used by the company to target potential leads.
 
-![s](https://cdn.upgrad.com/UpGrad/temp/189f213d-fade-4fe4-b506-865f1840a25a/XNote_201901081613670.jpg)
+![](https://cdn.upgrad.com/UpGrad/temp/189f213d-fade-4fe4-b506-865f1840a25a/XNote_201901081613670.jpg)
+
 Lead Conversion Process - Demonstrated as a funnel
 
 
@@ -22,8 +23,14 @@ The leads dataset from the past contains around 9000 data points. This dataset c
 
 ## Result & Observation
 After successfully building the Logistic Regression Model, following results were obtained:
- 
+
+ ![image](https://user-images.githubusercontent.com/34181629/152935994-ae825c1b-779c-42c6-ac42-5e7eb91348be.png)
+
 Please see the following link for a thorough report on the observed outcomes as well as responses to some further questions that the firm was seeking.
+
+- [Lead Score PPT]( https://github.com/rishav4u7/Data-Science/blob/master/ML1/Logistic%20Regression/Lead%20Score/LEAD%20SCORING_Presentation.pdf)
+- [Subjective Questions]( https://github.com/rishav4u7/Data-Science/blob/master/ML1/Logistic%20Regression/Lead%20Score/Subjective%20Questions.pdf)
+- [Summary]( https://github.com/rishav4u7/Data-Science/blob/master/ML1/Logistic%20Regression/Lead%20Score/Summary.pdf)
 
 
 
